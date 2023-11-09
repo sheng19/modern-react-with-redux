@@ -1,3 +1,7 @@
+# 04-Animals
+
+![Screenshot 2023-11-09 at 2 30 52 PM](https://github.com/sheng19/modern-react-with-redux/assets/49142310/86e9ac7c-9f67-4303-968b-93cab446eb4f)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
