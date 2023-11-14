@@ -1,3 +1,6 @@
+# 05-Pics
+![Screenshot 2023-11-14 at 6 53 16 PM](https://github.com/sheng19/modern-react-with-redux/assets/49142310/17b77577-d9c9-4e39-bf7a-91fa2c700279)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
