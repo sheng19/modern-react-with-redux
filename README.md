@@ -8,3 +8,4 @@ Course link: [https://www.udemy.com/course/react-redux/](https://www.udemy.com/c
 | No. | App | Sections | Content |
 | --- | ----| -------- | ------- |
 | 4 | Animals | | - Event System<br>- State System |
+| 5 | Pics | | - Async & Await<br>- Handling Text Inputs<br>- Delegate
